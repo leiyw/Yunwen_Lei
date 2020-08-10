@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Stochastic Composite Mirror Descent
